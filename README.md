@@ -1,4 +1,4 @@
-# Infrastructure Automation Kubernetes Week 2 In class
+# Infrastructure Automation Kubernetes Lab 5
 
 ## Introduction
 
