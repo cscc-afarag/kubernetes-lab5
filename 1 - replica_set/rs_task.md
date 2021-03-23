@@ -11,10 +11,3 @@ enter command here
 ```
 enter answer here
 ```
-
-### 3 - What is special about the output replicaset of your command?
-### *hint*  - ``` kubectcl get rs --show-labels```
-
-```
-enter answer here
-```

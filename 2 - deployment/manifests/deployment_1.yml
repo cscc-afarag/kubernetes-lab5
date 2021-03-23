@@ -7,8 +7,8 @@ spec:
   revisionHistoryLimit: 
   selector:
     matchLabels:
-      app_name: 
-      env: 
+      app_name: nginx
+      env: dev
   strategy:
     type: 
     rollingUpdate:
