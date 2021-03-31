@@ -2,14 +2,14 @@
 
 ## Introduction
 
-We will be going over some higher level abstractions available to us in Kubernetes. Make sure you have read the slides [TODO LINK] before going through this so you have a general understanding. 
+We will be going over some higher level abstractions available to us in Kubernetes. Make sure you have read the slides before going through this so you have a general understanding. 
 
 
 ## Objectives
 
 In this guide we will go over Workloads, which are the higher level kubernetes objects that manage pods or other higher level objects.
 
-Make sure you have read the slides [TODO LINK] before going through this so you have a general understanding. 
+Make sure you have read the slides before going through this so you have a general understanding. 
 
 
 ---
